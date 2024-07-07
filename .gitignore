@@ -1,0 +1,10 @@
+**/target/
+.idea
+*.iml
+*.calss
+*Test.java
+**/text/
+
+
+
+
